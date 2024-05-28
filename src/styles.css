@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+    font-family: "Merriweather", serif;
+}
+
+body {
+    background: url(https://www.zinghr.com/wp-content/uploads/2022/01/How-A-Digital-HRMS-Can-Help-With-Employee-Management-Issues.jpg) center fixed;
+    background-size: cover;
+}
