@@ -30,7 +30,6 @@ export class EditEmpComponent implements OnInit {
 
   cancel(id: any) {
     this.getEmpDetails(id)
-    this.router.navigateByUrl('')
   }
 
   updateEmp() {

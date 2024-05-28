@@ -7,7 +7,7 @@ import { empModel } from '../employees.model';
 })
 export class AllApiService {
 
-  server_url = "http://localhost:3000"
+  server_url = "https://empserver-8t4o.onrender.com"
   constructor(private http: HttpClient) { }
 
   saveEmpAPI(employee: empModel) {
